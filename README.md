@@ -1,0 +1,4 @@
+- Hi I am Surya
+- Interested in MERN stack
+- Pro efficient in learning new things
+- Currently working on self development and also upgrading skills on mern stack
